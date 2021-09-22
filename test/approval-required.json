@@ -1,0 +1,11 @@
+{
+    "ackId": "ackId",
+    "message": {
+        "attributes": {
+            "Action": "Required",
+            "Rollout": "projects/120123456789/locations/us-central1/deliveryPipelines/etest/releases/f2/rollouts/rollout-123"
+        },
+        "messageId": "messageId",
+        "publishTime": "2021-05-17T21:31:25.143Z"
+    }
+}
