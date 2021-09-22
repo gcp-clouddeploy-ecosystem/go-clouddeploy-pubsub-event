@@ -1,4 +1,4 @@
-module github.com/gcp-clouddeploy-ecosystem/go-clouddeploy-pubsub-events
+module github.com/gcp-clouddeploy-ecosystem/go-clouddeploy-pubsub-event
 
 go 1.17
 
